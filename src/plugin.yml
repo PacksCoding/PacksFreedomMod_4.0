@@ -1,0 +1,9 @@
+name: PacksFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 4.0
+description: Plugin for the Total Freedom server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+depend: [BarAPI]
+authors: [Madgeek1450, DarthSalamon, packeretteswan]
+
+# plugin.yml is no longer used to define commands.
